@@ -7,7 +7,12 @@ Il couvre l’utilisation de **fetch** et **Axios**, la récupération de donné
 
 Les APIs utilisées :
 
-**OpenWeatherMap**données météorologiques actuelles pour une ville donnée.
-**OpenLibrary** recherche de livres par titre.
-**RandomUser** génération aléatoire de données d’utilisateurs.
-**NASA APOD** Astronomy Picture of the Day (image du jour de la NASA).
+### OpenWeatherMap 
+données météorologiques actuelles pour une ville donnée.
+
+### OpenLibrary 
+recherche de livres par titre.
+### RandomUser 
+génération aléatoire de données d’utilisateurs.
+### NASA APOD 
+Astronomy Picture of the Day (image du jour de la NASA).
